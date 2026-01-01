@@ -1,31 +1,29 @@
 # Syed Furqaan Ahmed
 
 Researcher in Data Science & Artificial Intelligence  
-Founder & Lead Researcher at NDX Intelligence
+Founder & Lead Researcher, NDX Intelligence
 
 ---
 
 ## Focus
 
-My work centers on systems, experiments, and research.  
+My work centers on studying how data-driven and intelligent systems behave in practice.
 
-I study how data-driven and intelligent systems behave in practice by designing systems, running experiments, and analyzing results.
-
-I am interested in questions that require careful investigation rather than quick demos or surface-level outcomes.
+I approach problems by designing systems, running controlled experiments, analyzing results, and documenting both successes and failures. I am especially interested in questions that require careful investigation rather than quick demos or surface-level outcomes.
 
 ---
 
-## Research Work
+## Research Approach
 
-All research work is organized as project-based repositories under this account.
+All work under this account is organized as project-based research repositories.
 
 Each project typically includes:
-- a clearly defined research question
-- system design and implementation
-- experiments and analysis
-- documentation of results and limitations
+- a clearly defined research question  
+- system design and implementation  
+- experiments and analysis  
+- documentation of results, limitations, and failures  
 
-Projects are added as the work develops.
+The goal is not just to build models, but to understand *why systems behave the way they do*.
 
 ---
 
@@ -33,11 +31,14 @@ Projects are added as the work develops.
 
 NDX Intelligence is an independent research and open knowledge initiative focused on Data Science and Artificial Intelligence.
 
-It serves as the umbrella for long-term research projects involving system design, experimentation, analysis, and documentation.
+It serves as an umbrella for long-term research projects involving system design, experimentation, analysis, and documentation. All work is conducted openly and shared for learning and discussion.
 
 ---
 
-## Contact
+## Links & Contact
 
-- LinkedIn: https://www.linkedin.com/in/syedndx
+- LinkedIn: https://www.linkedin.com/in/syedndx  
+- YouTube: https://www.youtube.com/@syedndx  
+- Instagram: https://www.instagram.com/syedndx  
+- X (Twitter): https://x.com/syedndx  
 - Email: syedndx@icloud.com
