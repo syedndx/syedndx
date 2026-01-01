@@ -8,6 +8,7 @@ Founder & Lead Researcher at NDX Intelligence
 ## Focus
 
 My work centers on systems, experiments, and research.  
+
 I study how data-driven and intelligent systems behave in practice by designing systems, running experiments, and analyzing results.
 
 I am interested in questions that require careful investigation rather than quick demos or surface-level outcomes.
