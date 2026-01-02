@@ -33,6 +33,8 @@ NDX Intelligence is an independent research and open knowledge initiative focuse
 
 It serves as an umbrella for long-term research projects involving system design, experimentation, analysis, and documentation. All work is conducted openly and shared for learning and discussion.
 
+- Instagram: https://www.instagram.com/ndxintelligence
+
 ---
 
 ## Links & Contact
